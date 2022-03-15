@@ -1,5 +1,10 @@
 ## Energy-Based Learning for Cooperative Games
 
+<center>
+  Yatao Bian<sup>1</sup>, Yu Rong<sup>1</sup>, Tingyang Xu<sup>1</sup>,  Jiaxiang Wu<sup>1</sup>, Andreas Krause<sup>2</sup>, Junzhou Huang<sup>1</sup> <br>
+<sup>1</sup>Tencent AI Lab <br>
+<sup>2</sup>ETH Zurich <br>
+</center>
 
 ### Project Description
 
@@ -11,7 +16,9 @@ through conducting _one-step_ fixed point iteration for maximizing the ELBO obje
 
 To be released.
 
-### Paper
+### Paper: <https://openreview.net/pdf?id=xLfAgCroImw>
 
 
 ### Contact
+
+Yatao Bian <yatao.bian@gmail.com>
