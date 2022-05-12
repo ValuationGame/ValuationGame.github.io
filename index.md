@@ -31,9 +31,9 @@ through conducting _one-step_ fixed point iteration for maximizing the ELBO obje
 - Slides:  <https://yataobian.com/docs/valuation-game-slides-v3.pdf>
 
 
-### Code and Document
+### Code
 
-To be released.
+- Code: <https://github.com/tencent-ailab/valuationgame>
 
 
 ### Contact
